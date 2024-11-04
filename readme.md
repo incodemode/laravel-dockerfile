@@ -3,9 +3,10 @@
 Dockerfile to load laravel with apache2.
 
 ## Introduction
-This is meant to be used with a clean clone not installed in your local, that would be a little different.
-So after doing a `git clone somthingGithubsomehing/example-app example-app`
-and `cd example-app` you would be able to follow the instructions
+- This is meant to be used with a clean clone not installed in your local, that would be a little different.
+- So after doing a `git clone somthingGithubsomehing/example-app example-app`
+- and `cd example-app` you would be able to follow the instructions
+- you can download docker desktop from (https://www.docker.com/products/docker-desktop/)
 ## Instructions
 Copy Dockerfile and laravel-apache.conf to your project folder. 
 - Build image: 
