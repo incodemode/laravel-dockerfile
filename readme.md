@@ -32,6 +32,6 @@ the hexa would be `3263be5f1ae8`
 - kill container:<br/>
 `docker kill <hexa_of_container>`
 - bash in the container:<br/>
-`docker exec -it <hexa_of_container> bash
+`docker exec -it <hexa_of_container> bash`
 
 Code is free to use and modify but not production ready, use at your own peril.
