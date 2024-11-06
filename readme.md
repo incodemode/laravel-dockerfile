@@ -18,7 +18,7 @@ DB_CONNECTION=mysql
 - Build image: <br/>
 `docker build -t laravel .`
 - To use the image: <br/>
-`docker run -p 8081:80 `
+`docker run -p 8081:80 laravel`
 - Add to your hosts file:<br/>
 `127.0.0.1 docker.localhost`
 - Access via http://docker.localhost:8081/
